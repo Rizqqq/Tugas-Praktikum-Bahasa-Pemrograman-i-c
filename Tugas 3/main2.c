@@ -10,7 +10,7 @@ int main()
 	int b;
 	
 	printf("Masukan Bilangan Bulat Positif: ");
-	scanf("d%", &b);
+	scanf("%d", &b);
 	
 	//checkk
 	
